@@ -1,0 +1,418 @@
+[
+  {
+    "name": "bool",
+    "link": "https://chancejs.com/basics/bool.html"
+  },
+  {
+    "name": "falsy",
+    "link": "https://chancejs.com/basics/falsy.html"
+  },
+  {
+    "name": "character",
+    "link": "https://chancejs.com/basics/character.html"
+  },
+  {
+    "name": "floating",
+    "link": "https://chancejs.com/basics/floating.html"
+  },
+  {
+    "name": "integer",
+    "link": "https://chancejs.com/basics/integer.html"
+  },
+  {
+    "name": "letter",
+    "link": "https://chancejs.com/basics/letter.html"
+  },
+  {
+    "name": "natural",
+    "link": "https://chancejs.com/basics/natural.html"
+  },
+  {
+    "name": "prime",
+    "link": "https://chancejs.com/basics/prime.html"
+  },
+  {
+    "name": "string",
+    "link": "https://chancejs.com/basics/string.html"
+  },
+  {
+    "name": "paragraph",
+    "link": "https://chancejs.com/text/paragraph.html"
+  },
+  {
+    "name": "sentence",
+    "link": "https://chancejs.com/text/sentence.html"
+  },
+  {
+    "name": "syllable",
+    "link": "https://chancejs.com/text/syllable.html"
+  },
+  {
+    "name": "word",
+    "link": "https://chancejs.com/text/word.html"
+  },
+  {
+    "name": "age",
+    "link": "https://chancejs.com/person/age.html"
+  },
+  {
+    "name": "birthday",
+    "link": "https://chancejs.com/person/birthday.html"
+  },
+  {
+    "name": "cf",
+    "link": "https://chancejs.com/person/cf.html"
+  },
+  {
+    "name": "cpf",
+    "link": "https://chancejs.com/person/cpf.html"
+  },
+  {
+    "name": "first",
+    "link": "https://chancejs.com/person/first.html"
+  },
+  {
+    "name": "gender",
+    "link": "https://chancejs.com/person/gender.html"
+  },
+  {
+    "name": "last",
+    "link": "https://chancejs.com/person/last.html"
+  },
+  {
+    "name": "name",
+    "link": "https://chancejs.com/person/name.html"
+  },
+  {
+    "name": "prefix",
+    "link": "https://chancejs.com/person/prefix.html"
+  },
+  {
+    "name": "ssn",
+    "link": "https://chancejs.com/person/ssn.html"
+  },
+  {
+    "name": "suffix",
+    "link": "https://chancejs.com/person/suffix.html"
+  },
+  {
+    "name": "animal",
+    "link": "https://chancejs.com/thing/animal.html"
+  },
+  {
+    "name": "android_id",
+    "link": "https://chancejs.com/mobile/android_id.html"
+  },
+  {
+    "name": "apple_token",
+    "link": "https://chancejs.com/mobile/apple_token.html"
+  },
+  {
+    "name": "bb_pin",
+    "link": "https://chancejs.com/mobile/bb_pin.html"
+  },
+  {
+    "name": "wp7_anid",
+    "link": "https://chancejs.com/mobile/wp7_anid.html"
+  },
+  {
+    "name": "wp8_anid2",
+    "link": "https://chancejs.com/mobile/wp8_anid2.html"
+  },
+  {
+    "name": "avatar",
+    "link": "https://chancejs.com/web/avatar.html"
+  },
+  {
+    "name": "color",
+    "link": "https://chancejs.com/web/color.html"
+  },
+  {
+    "name": "company",
+    "link": "https://chancejs.com/web/company.html"
+  },
+  {
+    "name": "domain",
+    "link": "https://chancejs.com/web/domain.html"
+  },
+  {
+    "name": "email",
+    "link": "https://chancejs.com/web/email.html"
+  },
+  {
+    "name": "fbid",
+    "link": "https://chancejs.com/web/fbid.html"
+  },
+  {
+    "name": "google_analytics",
+    "link": "https://chancejs.com/web/google_analytics.html"
+  },
+  {
+    "name": "hashtag",
+    "link": "https://chancejs.com/web/hashtag.html"
+  },
+  {
+    "name": "ip",
+    "link": "https://chancejs.com/web/ip.html"
+  },
+  {
+    "name": "ipv6",
+    "link": "https://chancejs.com/web/ipv6.html"
+  },
+  {
+    "name": "klout",
+    "link": "https://chancejs.com/web/klout.html"
+  },
+  {
+    "name": "profession",
+    "link": "https://chancejs.com/web/profession.html"
+  },
+  {
+    "name": "tld",
+    "link": "https://chancejs.com/web/tld.html"
+  },
+  {
+    "name": "twitter",
+    "link": "https://chancejs.com/web/twitter.html"
+  },
+  {
+    "name": "url",
+    "link": "https://chancejs.com/web/url.html"
+  },
+  {
+    "name": "address",
+    "link": "https://chancejs.com/location/address.html"
+  },
+  {
+    "name": "altitude",
+    "link": "https://chancejs.com/location/altitude.html"
+  },
+  {
+    "name": "areacode",
+    "link": "https://chancejs.com/location/areacode.html"
+  },
+  {
+    "name": "city",
+    "link": "https://chancejs.com/location/city.html"
+  },
+  {
+    "name": "coordinates",
+    "link": "https://chancejs.com/location/coordinates.html"
+  },
+  {
+    "name": "country",
+    "link": "https://chancejs.com/location/country.html"
+  },
+  {
+    "name": "depth",
+    "link": "https://chancejs.com/location/depth.html"
+  },
+  {
+    "name": "geohash",
+    "link": "https://chancejs.com/location/geohash.html"
+  },
+  {
+    "name": "latitude",
+    "link": "https://chancejs.com/location/latitude.html"
+  },
+  {
+    "name": "locale",
+    "link": "https://chancejs.com/location/locale.html"
+  },
+  {
+    "name": "longitude",
+    "link": "https://chancejs.com/location/longitude.html"
+  },
+  {
+    "name": "phone",
+    "link": "https://chancejs.com/location/phone.html"
+  },
+  {
+    "name": "postal",
+    "link": "https://chancejs.com/location/postal.html"
+  },
+  {
+    "name": "postcode",
+    "link": "https://chancejs.com/location/postcode.html"
+  },
+  {
+    "name": "province",
+    "link": "https://chancejs.com/location/province.html"
+  },
+  {
+    "name": "state",
+    "link": "https://chancejs.com/location/state.html"
+  },
+  {
+    "name": "street",
+    "link": "https://chancejs.com/location/street.html"
+  },
+  {
+    "name": "zip",
+    "link": "https://chancejs.com/location/zip.html"
+  },
+  {
+    "name": "ampm",
+    "link": "https://chancejs.com/time/ampm.html"
+  },
+  {
+    "name": "date",
+    "link": "https://chancejs.com/time/date.html"
+  },
+  {
+    "name": "hammertime",
+    "link": "https://chancejs.com/time/hammertime.html"
+  },
+  {
+    "name": "hour",
+    "link": "https://chancejs.com/time/hour.html"
+  },
+  {
+    "name": "millisecond",
+    "link": "https://chancejs.com/time/millisecond.html"
+  },
+  {
+    "name": "minute",
+    "link": "https://chancejs.com/time/minute.html"
+  },
+  {
+    "name": "month",
+    "link": "https://chancejs.com/time/month.html"
+  },
+  {
+    "name": "second",
+    "link": "https://chancejs.com/time/second.html"
+  },
+  {
+    "name": "timestamp",
+    "link": "https://chancejs.com/time/timestamp.html"
+  },
+  {
+    "name": "timezone",
+    "link": "https://chancejs.com/time/timezone.html"
+  },
+  {
+    "name": "weekday",
+    "link": "https://chancejs.com/time/weekday.html"
+  },
+  {
+    "name": "year",
+    "link": "https://chancejs.com/time/year.html"
+  },
+  {
+    "name": "cc",
+    "link": "https://chancejs.com/finance/cc.html"
+  },
+  {
+    "name": "cc_type",
+    "link": "https://chancejs.com/finance/cc_type.html"
+  },
+  {
+    "name": "currency",
+    "link": "https://chancejs.com/finance/currency.html"
+  },
+  {
+    "name": "currency_pair",
+    "link": "https://chancejs.com/finance/currency_pair.html"
+  },
+  {
+    "name": "dollar",
+    "link": "https://chancejs.com/finance/dollar.html"
+  },
+  {
+    "name": "euro",
+    "link": "https://chancejs.com/finance/euro.html"
+  },
+  {
+    "name": "exp",
+    "link": "https://chancejs.com/finance/exp.html"
+  },
+  {
+    "name": "exp_month",
+    "link": "https://chancejs.com/finance/exp_month.html"
+  },
+  {
+    "name": "exp_year",
+    "link": "https://chancejs.com/finance/exp_year.html"
+  },
+  {
+    "name": "capitalize",
+    "link": "https://chancejs.com/helpers/capitalize.html"
+  },
+  {
+    "name": "mixin",
+    "link": "https://chancejs.com/helpers/mixin.html"
+  },
+  {
+    "name": "pad",
+    "link": "https://chancejs.com/helpers/pad.html"
+  },
+  {
+    "name": "pick",
+    "link": "https://chancejs.com/helpers/pick.html"
+  },
+  {
+    "name": "pickone",
+    "link": "https://chancejs.com/helpers/pickone.html"
+  },
+  {
+    "name": "pickset",
+    "link": "https://chancejs.com/helpers/pickset.html"
+  },
+  {
+    "name": "set",
+    "link": "https://chancejs.com/helpers/set.html"
+  },
+  {
+    "name": "shuffle",
+    "link": "https://chancejs.com/helpers/shuffle.html"
+  },
+  {
+    "name": "coin",
+    "link": "https://chancejs.com/miscellaneous/coin.html"
+  },
+  {
+    "name": "dice",
+    "link": "https://chancejs.com/miscellaneous/dice.html"
+  },
+  {
+    "name": "guid",
+    "link": "https://chancejs.com/miscellaneous/guid.html"
+  },
+  {
+    "name": "hash",
+    "link": "https://chancejs.com/miscellaneous/hash.html"
+  },
+  {
+    "name": "hidden",
+    "link": "https://chancejs.com/miscellaneous/hidden.html"
+  },
+  {
+    "name": "n",
+    "link": "https://chancejs.com/miscellaneous/n.html"
+  },
+  {
+    "name": "normal",
+    "link": "https://chancejs.com/miscellaneous/normal.html"
+  },
+  {
+    "name": "radio",
+    "link": "https://chancejs.com/miscellaneous/radio.html"
+  },
+  {
+    "name": "rpg",
+    "link": "https://chancejs.com/miscellaneous/rpg.html"
+  },
+  {
+    "name": "tv",
+    "link": "https://chancejs.com/miscellaneous/tv.html"
+  },
+  {
+    "name": "unique",
+    "link": "https://chancejs.com/miscellaneous/unique.html"
+  },
+  {
+    "name": "weighted",
+    "link": "https://chancejs.com/miscellaneous/weighted.html"
+  }
+]
