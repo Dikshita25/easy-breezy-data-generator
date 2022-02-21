@@ -107,7 +107,7 @@ const schema = require('./schema.json');
 ```
 3. Finally initialize and generate the random dataSet
 ```
-const dataGenerator = new DataGenerator(template);
+const dataGenerator = new DataGenerator(schema);
 console.log(JSON.stringify(dataGenerator.generateData()));
 ```
 *Below are some most used kinds. Also don't forget to checkout, all the different kinds provided by `[chance.js] (https://chancejs.com/)`.*
