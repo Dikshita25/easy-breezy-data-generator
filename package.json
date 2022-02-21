@@ -1,6 +1,6 @@
 {
   "name": "easy-breezy-data-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A generator to generate random but valid data using customized schema",
   "main": "src/index.js",
   "scripts": {
