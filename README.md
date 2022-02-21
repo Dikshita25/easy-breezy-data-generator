@@ -12,7 +12,7 @@ Simply customized your schema specifying your kinds (types). Types can be email,
 Random data is an integral part of any testing or statistical modeling. They play an increasing important role in the system. And having control over the modelling/structuring of data would be cherry on the cake.
 So lets control the structuring of data by passing any variations of fields, arrays and objects in just one file. Below is the test `schema.json` for reference.
 ```json
- {
+{
   "email": {
     "kind": "email",
     "params": {
@@ -29,7 +29,7 @@ So lets control the structuring of data by passing any variations of fields, arr
     "type": "object",
     "fields": {
       "companyName": {
-        "kind": "company",
+        "kind": "company"
       },
       "companyAddress": {
         "kind": "address"
@@ -64,8 +64,8 @@ So lets control the structuring of data by passing any variations of fields, arr
             }
           }
         }
-      },
-    },
+      }
+    }
   },
   "firstName": {
     "kind": "first"

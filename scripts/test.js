@@ -10,14 +10,14 @@ const template = {
   "age": {
     "kind": "age",
     "params": {
-      "type": 'adult' 
+      "type": "adult"
     }
   },
   "company": {
     "type": "object",
     "fields": {
       "companyName": {
-        "kind": "company",
+        "kind": "company"
       },
       "companyAddress": {
         "kind": "address"
@@ -52,8 +52,8 @@ const template = {
             }
           }
         }
-      },
-    },
+      }
+    }
   },
   "firstName": {
     "kind": "first"
@@ -77,7 +77,7 @@ const template = {
       }
     }
   }
-};
+}
 
 const dataGenerator = new DataGenerator(template);
 console.log(JSON.stringify(dataGenerator.generateData()));
